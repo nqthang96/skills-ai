@@ -1,5 +1,5 @@
 ---
-name: Landing Page Builder
+name: landing-page-builder
 description: >
   Skill này tự động hóa toàn bộ quy trình xây dựng Landing Page chất lượng cao, từ khâu tiếp nhận yêu cầu thô của khách hàng, phân tích cấu trúc nội dung, thiết kế hệ thống giao diện (Design System), lập đặc tả giao diện (UI Specification), cho tới khâu sinh mã nguồn (HTML, CSS, JavaScript, AOS) và kiểm định chất lượng sản phẩm (QA).
   Sử dụng khi có các yêu cầu tạo landing page, thiết kế trang đích, viết code landing page hoặc xây dựng trang web giới thiệu sản phẩm.

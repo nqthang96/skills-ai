@@ -36,7 +36,7 @@ thiếu. Số dòng đầu ra **bằng đúng** số dòng đầu vào (dòng l�
 > "HONDROFROST SK - 29 EUR" → Xóa từ dấu cách trước `-` trở đi → `HONDROFROST` (từ khóa SK sẽ được loại bỏ theo quy tắc R3)
 
 ### R3 · Quốc gia & vùng lãnh thổ
-Xóa tên quốc gia (USA, UK, Vietnam, DE, TR, HR, SK…) và mã quốc gia 2 ký tự, mã khu vực, các mã này thường được viết in hoa
+Xóa tên quốc gia (Vietnam, Singapore, Chile, Thailand, Poland, Ba Lan, South Korea...) và mã quốc gia 2 ký tự, mã khu vực, các mã này thường được viết in hoa (DE, TR, HR, SK, EU, US, UK…))
 
 Với mã quốc gia bắt buộc dùng danh sách country code đầy đủ theo chuẩn ISO 3166-1 alpha-2.
 
@@ -58,7 +58,7 @@ Ví dụ:
 > "Gluconol EU" → `Gluconol`
 
 ### R4 · Nội dung trong ngoặc
-Xóa `(...)` bao gồm cả nội dung bên trong.
+Xóa `(...)`  và `[...]` bao gồm cả nội dung bên trong.
 > "RitKeep (US)" → `RitKeep`
 
 ### R5 · Tiền tệ & giá cả

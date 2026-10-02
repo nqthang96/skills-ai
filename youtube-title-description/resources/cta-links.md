@@ -16,27 +16,30 @@ Tiếp theo bạn muốn mình chia sẻ gì về chủ đề AI - Automation - 
 
 - Blog: https://nguyenquythang.com/
 - Facebook cá nhân: https://www.facebook.com/anthonynguyen141
+- Kênh Tiktok: https://www.tiktok.com/@nguyenquythang
+- Fanpage Facebook: https://www.facebook.com/profile.php?id=61591847961039
 - Cộng đồng Học và ứng dụng AI | Automation | Marketing: https://www.facebook.com/groups/hoituhocmarketing/
 - Cộng đồng Google Ads: https://www.facebook.com/groups/googleads102
+
 ---
 
 ## QUY TẮC SỬ DỤNG
 
-| Phần | Quy tắc |
-|------|---------|
+| Phần                       | Quy tắc                                                               |
+| -------------------------- | --------------------------------------------------------------------- |
 | `📊 Thấy video hữu ích...` | Có thể điều chỉnh nhẹ câu văn nhưng giữ nội dung like/share/subscribe |
-| `Tiếp theo bạn muốn...` | Có thể paraphrase nhẹ, giữ nguyên ý nghĩa |
-| `⏭︎ Có bất kỳ góp ý...` | Giữ nguyên emoji `⏭︎` |
-| Tất cả URLs | ⛔ TUYỆT ĐỐI KHÔNG thay đổi |
-| Tên cộng đồng/kênh | ⛔ TUYỆT ĐỐI KHÔNG thay đổi |
+| `Tiếp theo bạn muốn...`    | Có thể paraphrase nhẹ, giữ nguyên ý nghĩa                             |
+| `⏭︎ Có bất kỳ góp ý...`    | Giữ nguyên emoji `⏭︎`                                                 |
+| Tất cả URLs                | ⛔ TUYỆT ĐỐI KHÔNG thay đổi                                            |
+| Tên cộng đồng/kênh         | ⛔ TUYỆT ĐỐI KHÔNG thay đổi                                            |
 
 ---
 
 ## LỊCH SỬ CẬP NHẬT
 
-| Ngày | Thay đổi | Người thực hiện |
-|------|---------|----------------|
-| 2025-01 | Tạo file lần đầu | — |
+| Ngày    | Thay đổi         | Người thực hiện |
+| ------- | ---------------- | --------------- |
+| 2025-01 | Tạo file lần đầu | —               |
 
 > Khi có link mới hoặc link thay đổi, cập nhật TẠI ĐÂY và ghi vào bảng lịch sử.
 > Mọi thay đổi link đều phải được chủ kênh xác nhận trước.

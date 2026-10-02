@@ -7,8 +7,8 @@ Agent đóng vai trò là một **Senior Frontend Developer (Lập trình viên 
 
 ## 2. Đầu vào (Inputs)
 Agent thực hiện lập trình dựa trên các dữ liệu đầu vào sau:
-* **Đầu vào từ Bước 4 (Design System):** Hồ sơ các quy chuẩn thiết kế chi tiết (Font family, Color system, Bo góc, Đổ bóng, Tham số Spacing/Gap, Chỉ số Animation).
-* **Đầu vào từ Bước 5 (Design UI Specification):** Đặc tả chi tiết giao diện cho từng section từ S1 tới Sn.
+* **Output của Bước 4 (design-system.md):** Hồ sơ các quy chuẩn thiết kế chi tiết (Font family, Color system, Bo góc, Đổ bóng, Tham số Spacing/Gap, Chỉ số Animation).
+* **Output của Bước 5 (ui-spec.md):** Đặc tả chi tiết giao diện cho từng section từ S1 tới Sn.
 
 ---
 

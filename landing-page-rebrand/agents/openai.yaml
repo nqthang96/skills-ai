@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chỉnh sửa Landing Page Có Sẵn"
+  short_description: "Đổi sản phẩm, giữ nguyên phần ngoài phạm vi"
+  default_prompt: "Dùng $landing-page-rebrand để chỉnh landing page có sẵn theo input sản phẩm mới và chỉ thay đúng phạm vi tôi yêu cầu."

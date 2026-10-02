@@ -61,7 +61,7 @@ Agent thực hiện thiết kế dựa trên các dữ liệu đầu vào sau (k
 ---
 
 ## 6. Yêu cầu đầu ra (Output Requirements)
-Tài liệu Design UI Specification phải tuân thủ nghiêm ngặt định dạng cấu trúc sau cho từng section từ S1 tới Sn:
+Xuất ra file ui-spec.md: Tài liệu Design UI Specification phải tuân thủ nghiêm ngặt định dạng cấu trúc sau cho từng section từ S1 tới Sn:
 
 ```markdown
 # Tài liệu Đặc tả UI: [Tên dự án]

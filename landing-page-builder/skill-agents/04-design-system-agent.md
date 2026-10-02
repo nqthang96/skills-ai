@@ -29,7 +29,7 @@ Agent đóng vai trò là một **Design System Engineer (Kỹ sư Hệ thống 
 ---
 
 ## 5. Yêu cầu đầu ra (Output Requirements)
-Tài liệu Hồ sơ Design System của dự án do Agent tạo ra phải được viết dưới dạng Markdown cấu trúc chuẩn như sau:
+Xuất ra file design-system.md: Tài liệu Hồ sơ Design System của dự án do Agent tạo ra phải được viết dưới dạng Markdown cấu trúc chuẩn như sau:
 
 ```markdown
 # Hồ sơ Design System: [Tên dự án]
